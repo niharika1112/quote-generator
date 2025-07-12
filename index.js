@@ -1,10 +1,10 @@
 const myQuotes =[
      {
-        quote:"Only one who devotes himself to a cause with his whole syrength and soul can be a true master",
+        quote:"Only one who devotes himself to a cause with his whole strength and soul can be a true master",
         author:"Albert Einstein"
     },
      {
-        quote:"WWork peacefully and joyfully, knowing that right thoughts and right efforts will inevitably bring about right results",
+        quote:"Work peacefully and joyfully, knowing that right thoughts and right efforts will inevitably bring about right results",
         author:"James Allen"
     },
      {
@@ -88,7 +88,7 @@ const myQuotes =[
         author:"Frank Garbutt"
     },
      {
-        quote:"If you don't value your time, neither will others, Stop giving away your time and talents. Value what you know& start charging for it",
+        quote:"If you don't value your time, neither will others, Stop giving away your time and talents. Value what you know & start charging for it",
         author:"Kim Garst"
     },
      {
@@ -164,8 +164,16 @@ const myQuotes =[
         author:"Niharika"
     },
     {
-        quote:"We all manufacturers, making good, making trouble, or making excuses",
+        quote:"We all  are manufacturers, making good, making trouble, or making excuses",
         author:"H. V. Adolt"
+    },
+     {
+        quote:"Patience and preserverance has a magical effect before which difficulties disappear and obstacles vanish",
+        author:"John Quincy Adams"
+    },
+     {
+        quote:"Failure is not the worst thing in the world -- the worst is not to try",
+        author:"Niharika"
     },
     {
         quote:"Without knowledge, life is not more than the shadow of death",
@@ -180,8 +188,16 @@ const myQuotes =[
         author:"Niharika"
     },
     {
-        quote:"Except the best. Prepare for the worst. Capitalize on what comes",
+        quote:"Expect the best. Prepare for the worst. Capitalize on what comes",
         author:"Zig Ziglar"
+    },
+     {
+        quote:"Live as though it were your last day on earth. Some day you will be right",
+        author:"Robert Anthony"
+    },
+     {
+        quote:"Determine that the thing can and shall be done, and then we shall find the way",
+        author:"Abraham Lincoln"
     },
     {
         quote:"The smallest seed of faith is better than the largest fruit of happiness",
@@ -302,6 +318,70 @@ const myQuotes =[
     {
         quote:"We are all include to judge ourselves by our ideals; others by their acts",
         author:"Harold Nicolson"
+    },
+     {
+        quote:"Ones best success comes after their greatest disappointments",
+        author:"Henry Ward Beecher"
+    },
+     {
+        quote:"Our greatest battles are that with our own minds",
+        author:"Jameson Frank"
+    },
+     {
+        quote:"Life deprived of beauty is not worthy of being called human",
+        author:"Luis Barragan"
+    },
+     {
+        quote:"A good teacher is like a candle - it consumes itself to light the way for others",
+        author:"Me"
+    },
+     {
+        quote:"Give your work 100% but save the rest for yourself, friends and family",
+        author:"Robert H. Connelly"
+    },
+     {
+        quote:"Everyone thinks of changing the world , but no one thinks of changing himself",
+        author:"Leo Tolstoy"
+    },
+     {
+        quote:"True a little learnong is dangerous , but it still beats total ignorance",
+        author:"Abigail Van Buren"
+    },
+     {
+        quote:"Happy are those who dreams and are ready to pay the price to make them come true",
+        author:"Leon J. Sunes"
+    },
+     {
+        quote:"Laugh at yourself ones in a while, give yourself a break",
+        author:"Greg Evans"
+    },
+     {
+        quote:"Success is the good fortune that comes from aspiration, perspiration, despiration and inspiration",
+        author:"Evan Esar"
+    },
+     {
+        quote:"One way to get the most out of life is to look upon it as an adventure",
+        author:"William Feather"
+    },
+     {
+        quote:"It is wrong to assume that men of immense wealth are always happy",
+        author:"John D. Rockeller"
+    },
+     {
+        quote:"Strong characters are brought out by change of situation, and gentle ones by permanence",
+        author:"Jean Paul Richter"
+    },
+     {
+        quote:"Action may not always bring happiness, but there is no happiness without action",
+        author:"Benjamin Disraeli"
+    },
+     {
+        quote:"One of the secrets of life is to make stepping stones out of stumbling blocks",
+        author:"Jack Penn"
+    },
+     {
+        quote:"Pleasure for one hour, a bottle of wine. Pleasure for one year a marriage; but pleasure for a lifetime, a garden",
+        author:"chinese proverbs"
     },
     {
         quote:"Short lived pleasure is the parent of pain",
